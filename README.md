@@ -1,2 +1,3 @@
 # tindog
-https://github.com/nehamurthy2661/tindog.git
+Landing page of a fictional dating app for dogs.
+This single page web app was built with HTML, CSS and Bootstrap.
